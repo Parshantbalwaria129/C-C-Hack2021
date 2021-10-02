@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-    int la[11] = {11,12,13,14,15,16,17,18,19,20}; //LA
+    int la[11] = {110,120,130,140,150,160,170,180,190,200}; //LA
 	int k = 5;   //K = location of item where it have to insert
 	int n = 10;  // N = total no. of elemets
 	int item = 55; //ITEM = item to be inserted
