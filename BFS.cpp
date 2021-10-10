@@ -1,13 +1,15 @@
-
+// bfs algorithm
 #include<iostream>
 #include <list>
 
 using namespace std;
+
 class Graph
 {
 	int V; 
 	list<int> *adj;
 public:
+	//parametrised constructer
 	Graph(int V); 
 
 	void addEdge(int v, int w);
