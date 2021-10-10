@@ -1,3 +1,5 @@
+
+// insertion sort
 #include<iostream>
 using namespace std;
 void display(int *array, int size) {
