@@ -1,6 +1,3 @@
-// Borland C++ - (C) Copyright 1991 by Borland International
-
-// BARCHART Example Program
 
 #include           <stdio.h>
 #include           <stdlib.h>
