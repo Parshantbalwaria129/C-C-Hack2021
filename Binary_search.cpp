@@ -1,5 +1,3 @@
-// #include<iostream>
-This is the searching algorithm which takes o(logn) time
 #include <iostream>
 #include<math.h>
 using namespace std;
